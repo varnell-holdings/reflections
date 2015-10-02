@@ -1,0 +1,20 @@
+Took a while to get Sublime Text working from the command line.
+Stupid me not reading the intructions properly.
+Jumping lines of text.
+Learnt to use ls with the -a option to see hidden files.
+Knowing what is in my .bash_profile is useful.
+Diff seems a useful tool.
+The command line Udacity course was a real breakthrough for me.
+Tab completion is a game changer.
+These two courses at Udacity are very different. 
+Narrowly focused on skill acquisition.
+Better pedagogy also.
+Version control would allow you to backtrack.
+Perhaps one would become more'adventurous', knowing that you could easily be 'rescued'. ie more likely to try different formulations of a solution.Refactoring woud be less scary.
+Commits. Random or timed commits are automatic. You don't have to remember. Good for free form writing. Not so good for code where you wan't each commit to represent a logical or compartamentalised change.
+Technically easier to track files separately.
+git log prints out a chronological listing of changes to files in the repository
+git diff takes two commit ids on prints the differences between them.
+being able to git checkout means you can simply pull up a working version of your program. No fear of breaking things!!
+I want to use GIT to see if I can improve my account rinting program without ruining itas it is crucial to my business.
+I would also like to be able to get programs from github and play with them and possibly contrbute to an open source project.
