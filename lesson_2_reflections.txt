@@ -1,0 +1,20 @@
+In early lesson two I have learnt 2 commands 'git init' and 'git status'.
+git init turns a directory into a repository.
+git status ??
+A git init does not do an initial commit. It installs a hidden .git file in the directory which contains metadata used to track changes.
+list of git commands I have learnt
+ - clone			pull a resitory from a url
+ - log			see what  recent commits have been made
+ - diff			see the differences between two commits
+ - checkout		change a file (and its associated fiLES) back  a previou
+ - init			make a local dir into a repository .git file inserted
+ - status		show what is going on in staging area
+ - add			add file to staging area
+ - reset		remove file from staging area
+ - commit       move file from staging area to repository
+
+
+
+
+
+CONCEPT MAP
