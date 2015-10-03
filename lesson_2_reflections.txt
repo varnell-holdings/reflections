@@ -6,6 +6,9 @@ list of git commands I have learnt
  - clone			pull a resitory from a url
  - log			see what  recent commits have been made
  - diff			see the differences between two commits
+ 				no parameter	diff between wd and staging area
+ 				--staged		diff between wd and commits
+ 				commit1 commit2	diff between commits
  - checkout		change a file (and its associated fiLES) back  a previou
  - init			make a local dir into a repository .git file inserted
  - status		show what is going on in staging area
