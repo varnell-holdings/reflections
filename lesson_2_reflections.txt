@@ -5,19 +5,38 @@ A git init does not do an initial commit. It installs a hidden .git file in the 
 list of git commands I have learnt
  - clone			pull a resitory from a url
  - log			see what  recent commits have been made
+ 				--graph  --oneline
  - diff			see the differences between two commits
  				no parameter	diff between wd and staging area
  				--staged		diff between wd and commits
  				commit1 commit2	diff between commits
  - checkout		change a file (and its associated fiLES) back  a previou
+ 				change to a new branch
+ 				-b make a new branch and check it out
  - init			make a local dir into a repository .git file inserted
  - status		show what is going on in staging area
  - add			add file to staging area
  - reset		remove file from staging area
  - commit       move file from staging area to repository
+ - branch 		new branch
+ 				-d name       delete branch
+ - merge
+ - show			diff between commit and parent
 
 
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Experimental changes. Side project.
+
+How do the diagrams help you visualize the branch structure?
+- Human brain works visually
 
 CONCEPT MAP
+?? what tool to use for this
+
+Comments
+lesson two
+git diff revisited confusing quiz
